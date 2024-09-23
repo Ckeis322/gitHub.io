@@ -1,0 +1,19 @@
+.blockDiv{
+    height: 500px;
+    background-color: blue;
+}
+        
+div.blockDiv{        
+    height: 200px;        
+    background-color:         blue;         
+}
+#idDiv{      
+    background-color: blueviolet; 
+    color: aliceblue;       
+}        
+                             
+div#idDiv{
+    background-color: aquamarine        
+}              
+
+
